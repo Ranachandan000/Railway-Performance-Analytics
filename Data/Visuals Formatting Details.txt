@@ -1,0 +1,141 @@
+Report Heading :
+
+[General] 
+
+1)Text: Railways Performance Analytics
+
+2) Font: Candara , Size:40
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+KPI[Visual -> Level : Candara, 30]
+
+[General]
+
+1)Text: Total Revenue Earned , Total Stations Covered , Different Train Types
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+Donut Chart [ Visual -> Legend : Off , Detail Labels :On]
+
+[General]
+
+1) Text: % of Revenue Earned by different train types ,% of Train Traffic at different Railway Stations
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+Clustered Column Chart [Visual: X axis , X axis Title :On, Title : Font:Candara,Size:9,Legend:On ,Data Labels :On]
+
+[General]
+
+1)Text: On-Time vs Late Arrival by Train Type
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+Clustered Bar Chart [Visual: Y axis , Y axis Title :On ,Title : Font:Candara,Size:9 ,Data Labels :On]
+
+[General] 
+
+1)Text: Satisfaction by train type
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+Line Chart [Visual X axis , Y axis : On and X axis and Y axis Title :Off]
+
+[General] 
+
+1)Text: Revenue Earned over Time
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30 px
+
+6) Shadow: On
+
+
+
+Map [Visual : Legend :On]
+
+[General] 
+
+1)Text: % of Revenue Earned Location wise
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30px
+
+6) Shadow: On
+
+
+
+Slicer : [Visual : Style : Between , Slider: On
+
+[General] 
+
+1)Text: Time Period
+
+2) Font: Candara , Size:14
+
+3) Text Color : #FFCB3D
+
+4) Horizontal Alignment: Center
+
+5) Visual Border : On , Rounded Corner : 30 px
+
+6) Shadow: On
